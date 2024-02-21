@@ -33,12 +33,13 @@ Feb 24, 2024
 - [Apple RealityKit Models](https://developer.apple.com/augmented-reality/quick-look/)
 - [Download the final project](/projects/adding-models-to-scene.zip)
 
-#### Adding Physics 
+#### Adding Physics to Models 
 
 - [Download the final project](/projects/adding-physics-to-scene.zip)
 
 #### Collision Detection 
 
+- [Download the final project](/projects/collision-begin-and-end-events.zip)
 
 #### Image Recognition 
 
