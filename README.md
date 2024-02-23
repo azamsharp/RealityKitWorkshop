@@ -43,6 +43,9 @@ Feb 24, 2024
 
 #### Image Recognition 
 
+- [Apple RealityKit Models](https://developer.apple.com/augmented-reality/quick-look/)
+- [Download the starter project](/projects/image-recognition-starter.zip)
+- [Download the final project](/projects/image-recognition-final.zip)
 
 
 
